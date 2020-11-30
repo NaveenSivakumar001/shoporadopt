@@ -1,0 +1,10 @@
+// API Reference: https://www.wix.com/corvid/reference
+// “Hello, World!” Example: https://www.wix.com/corvid/hello-world
+
+$w.onReady(function () {
+	// Write your JavaScript here
+
+	// To select an element by ID use: $w("#elementID")
+
+	// Click "Preview" to run your code
+});
